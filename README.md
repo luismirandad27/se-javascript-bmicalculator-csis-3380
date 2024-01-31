@@ -3,7 +3,6 @@
 ### Assignment #3: BMI Calculator
 Student Name: Luis Miguel Miranda
 - Link to GitHube Repo [here](https://github.com/luismirandad27/se-javascript-bmicalculator-csis-3380)
-- Link to GitHub Page [here](https://luismirandad27.github.io/se-javascript-bmicalculator-csis-3380/)
 
 ### Installing Node App
 ```bash
