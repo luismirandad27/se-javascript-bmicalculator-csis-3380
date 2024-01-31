@@ -1,5 +1,9 @@
 # CSIS 3380 - 003 - Full Stack Development with JavaScript
-A javascript exercise to create a BMI calculator using NodeJS + Express + Pug (CSIS 3380 Assignment)
+
+### Assignment #3: BMI Calculator
+Student Name: Luis Miguel Miranda
+- Link to GitHube Repo [here](https://github.com/luismirandad27/se-javascript-bmicalculator-csis-3380)
+- Link to GitHub Page [here](https://luismirandad27.github.io/se-javascript-bmicalculator-csis-3380/)
 
 ### Installing Node App
 ```bash
@@ -15,3 +19,5 @@ npm install --save express pug
 ```
 node app.js
 ```
+
+![Screenshot Website](/public/img/screenshot_app.png)
